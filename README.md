@@ -8,7 +8,7 @@
   <a href="https://github.com/ozgulerkerem/telco-churn-streamlit">
     <img src="https://img.shields.io/badge/GitHub-Project-black?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="linkedin.com/in/kerem-özgüler-021b38184/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
   </a>
 </p>
