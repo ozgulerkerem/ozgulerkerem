@@ -51,6 +51,17 @@ https://github.com/ozgulerkerem/telco-churn-streamlit
 
 ---
 
+### NLP Job–CV Matching System
+NLP-based application that evaluates CV–job description compatibility using TF-IDF similarity and skill coverage scoring.
+
+🔗 Live Demo:  
+https://nlp-data-job-cv-matching.streamlit.app/
+
+📁 Repository:  
+https://github.com/ozgulerkerem/nlp-job-cv-matching
+
+---
+
 ## 🎯 Currently Seeking
 
 Junior Data Analyst / Data Scientist roles in Germany 🇩🇪
